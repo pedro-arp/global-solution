@@ -34,6 +34,7 @@ Para usar o projeto, importe-o do GitHub e inicie o sistema. Após isso, você p
      http://localhost:8080/global-fishing/v1/{country}
    ```
 Substitua {country} pelo código do país desejado.
+
 **Gerar Mapa de Calor Global:**
 
   ```bash
